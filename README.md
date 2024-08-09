@@ -1,1 +1,1 @@
-# oyster_journies
+# oyster_journeys
